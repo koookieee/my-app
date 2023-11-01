@@ -1,0 +1,18 @@
+.im{
+    margin-right: 70px;
+    margin-top: 70px;
+}
+
+.title{
+    font-weight: 900;
+    font-size: 70px;
+    margin-top: 70px;
+    
+}
+.rating{
+    font-weight: 200;
+    font-size: 50px;
+    padding-bottom: 50%;
+    text-align: center;
+}
+
